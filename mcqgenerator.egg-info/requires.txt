@@ -1,8 +1,5 @@
-openAi
+openai
 langchain
 streamlit
 python-dotenv
 PyPDF2
-octoai-sdk
-
--e .
